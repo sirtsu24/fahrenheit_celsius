@@ -1,0 +1,11 @@
+C:\Users\Sirje\Desktop\Fahrenheit_celsius\Fahrenheit_celsius\obj\Debug\netcoreapp2.1\Fahrenheit_celsius.csprojAssemblyReference.cache
+C:\Users\Sirje\Desktop\Fahrenheit_celsius\Fahrenheit_celsius\obj\Debug\netcoreapp2.1\Fahrenheit_celsius.csproj.CoreCompileInputs.cache
+C:\Users\Sirje\Desktop\Fahrenheit_celsius\Fahrenheit_celsius\obj\Debug\netcoreapp2.1\Fahrenheit_celsius.AssemblyInfoInputs.cache
+C:\Users\Sirje\Desktop\Fahrenheit_celsius\Fahrenheit_celsius\obj\Debug\netcoreapp2.1\Fahrenheit_celsius.AssemblyInfo.cs
+C:\Users\Sirje\Desktop\Fahrenheit_celsius\Fahrenheit_celsius\bin\Debug\netcoreapp2.1\Fahrenheit_celsius.deps.json
+C:\Users\Sirje\Desktop\Fahrenheit_celsius\Fahrenheit_celsius\bin\Debug\netcoreapp2.1\Fahrenheit_celsius.runtimeconfig.json
+C:\Users\Sirje\Desktop\Fahrenheit_celsius\Fahrenheit_celsius\bin\Debug\netcoreapp2.1\Fahrenheit_celsius.runtimeconfig.dev.json
+C:\Users\Sirje\Desktop\Fahrenheit_celsius\Fahrenheit_celsius\bin\Debug\netcoreapp2.1\Fahrenheit_celsius.dll
+C:\Users\Sirje\Desktop\Fahrenheit_celsius\Fahrenheit_celsius\bin\Debug\netcoreapp2.1\Fahrenheit_celsius.pdb
+C:\Users\Sirje\Desktop\Fahrenheit_celsius\Fahrenheit_celsius\obj\Debug\netcoreapp2.1\Fahrenheit_celsius.dll
+C:\Users\Sirje\Desktop\Fahrenheit_celsius\Fahrenheit_celsius\obj\Debug\netcoreapp2.1\Fahrenheit_celsius.pdb
